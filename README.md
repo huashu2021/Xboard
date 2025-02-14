@@ -9,6 +9,10 @@
 
 </div>
 
+## 本分支支持的后端
+- [修改版XrayR](#https://github.com/wyx2685/XrayR)
+- [修改版V2bX](#https://github.com/wyx2685/V2bX)
+- [V2bX](#https://github.com/InazumaV/V2bX)
 ## 📖 Introduction
 
 Xboard is a modern panel system built on Laravel 11, focusing on providing a clean and efficient user experience.
